@@ -42,4 +42,4 @@ Same-day visitors supplied approximately **90% of the increase from 2024 to 2025
 
 I keep the research question, data definitions and transformations visible. I check joins and missing values before plotting, use charts that support meaningful comparisons, and separate observed patterns from causal explanations.
 
-This page presents an ongoing course project. See the repository for source details, reproduction instructions, usage limitations and the AI declaration.
+This page presents an ongoing course project. See the repository for source details, reproduction instructions and usage limitations.
