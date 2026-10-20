@@ -19,6 +19,8 @@ title: Guanyu Ke — Data Science Portfolio
 
 **Research question:** Which visitor type supplied the increase in arrivals, and how did hotel occupancy change over the same 36 months?
 
+**Main finding:** Same-day visitors accounted for approximately **90% of the increase in visitor arrivals from 2024 to 2025**.
+
 ![Monthly visitor arrivals and hotel room occupancy in Macao, 2023–2025](assets/monthly_arrivals_occupancy.png)
 
 <p class="caption">Same-day and overnight arrivals use one scale; occupancy uses a separate aligned panel with a 0–100% scale. Source: DSEC via MGTO Tourism Statistics; author calculations.</p>
